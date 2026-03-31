@@ -1,2 +1,3 @@
 # kmake-lab-jp
-韓国メイクLAB
+
+Updated: 2026-04-01
